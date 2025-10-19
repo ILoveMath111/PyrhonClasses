@@ -1,0 +1,11 @@
+import turtle
+turtle.Screen().bgcolor("pink")
+circle=turtle.Turtle()
+circle.forward(100)
+circle.left(90)
+circle.forward(100)
+circle.left(90)
+circle.forward(100)
+circle.left(90)
+circle.forward(100)
+turtle.done()
